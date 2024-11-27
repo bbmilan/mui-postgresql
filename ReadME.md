@@ -1,7 +1,7 @@
 
 # Use User Assigned Managed Identity with Azure PostgreSQL Flexible Server and .NET Web API
 <p align="left">
-    <img src="https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-9.png" alt="Design Image">
+    <img src="https://github.com/bbmilan/mui-postgresql/blob/main/imgs/img-9.png" alt="Design Image">
 </p>
 
 
