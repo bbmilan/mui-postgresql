@@ -67,7 +67,7 @@ In this demo, I used an elegant way to manage token expiry and retrieval for a u
 
 3. Connect to your Azure PostgreSQL Flexible Server (for example using Pg Admin 4), using server admin credentials from above.
 
-    ![Login Image]https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-2.png)
+    ![Login Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-2.png)
 
     
 4. (Optional) - You can also use the Entra Admin user from above to connect to your PostgreSQL Server, but you will need to obtain the access token from Microsoft Entra and use it instead of password.
@@ -86,7 +86,7 @@ In this demo, I used an elegant way to manage token expiry and retrieval for a u
 
 5. Run the deployment.pgsql query against the todo_db (either from your VS Code or in Pg Admin4 tool)
 
-    ![SQL Script Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-3.png)
+    ![SQL Script Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/img-3.png)
 
 
 
@@ -153,7 +153,7 @@ Let's get started with the option 1 and see what esle is needed to run this API 
     Open your browser or Postman and navigate to `http://localhost:5289/swagger/index.html` to test the API endpoints.
 
 With these steps, you should be able to run the API locally without exposing passwords in the connection string.
-![Demo Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-7.png)
+![Demo Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/img-7.png)
 
 
 Congratulations, you web API is connecting to Azure PostgreSQL database on Flexible Server without password in your local environment.
