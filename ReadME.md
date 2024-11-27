@@ -178,7 +178,7 @@ For this workload to run properly on Azure, we need to ensure that the user assi
 
     With these steps, you should be able to run the API on Azure without exposing passwords in the connection string.
 
-![Demo Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/Img-8.png)
+![Demo Image](https://github.com/bbmilan/mui-postgresql/blob/main/imgs/img-8.png)
 
 
 
